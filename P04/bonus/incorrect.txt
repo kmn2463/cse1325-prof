@@ -1,6 +1,15 @@
 ==================================
    R I D D L E   M E   T H I S
-==================================
+============
+The riddle number: 0
+Solution: He saw Chuck Norris coming!
+
+
+0) Why did the chicken cross the road?
+    He saw Chuck Norris coming!
+1) Why did the chicken cross the road?
+    He saw Chuck Norris coming!
+======================
 
 
 
@@ -28,15 +37,6 @@ Solution: To get to the other side!
 
 
 Riddle me this: 3
-The riddle number: 0
-Solution: He saw Chuck Norris coming!
-
-
-0) Why did the chicken cross the road?
-    He saw Chuck Norris coming!
-1) Why did the chicken cross the road?
-    He saw Chuck Norris coming!
-
 
 Riddle me this: 4
 From riddle number: 1
